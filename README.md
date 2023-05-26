@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnmolSinghNegi
 - 👀 I’m interested in Programming and Coding.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on project and youtube.
 - 📫 How to reach me anmolnegi242@gmail.com
 
